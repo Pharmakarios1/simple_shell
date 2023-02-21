@@ -320,26 +320,12 @@ $
 
 ## Authors ##
 
-👤 **Besthor Igbe**
+👤 **Blessed Akhigbe**
 
-- GitHub: [@besthor] (https://github.com/besthor)
+- GitHub: [@Pharmakarios] (https://github.com/pharmakarios)
 
-👤 **Mosuro Kanyinsola Olubunmi**
+👤 **Jayeola Victor Adeoluwa**
 
-- GitHub: [@Mosuro1911] (https://github.com/Mosuro1911)
-
-👤 **SiziphiweD**
-
-- GitHub: [@SiziphiweD] (https://github.com/SiziphiweD)
-
-👤 **PhilisiweD**
-
-- GitHub: [@PhilisiweD] (https://github.com/PhilisiweD)
-
-👤 **Tebogo Dipale**
-
-- GitHub: [@MustbeThabz] (https://github.com/MustbeThabz)
-
-👤 **Obakeng Michael Kuate**
+- GitHub: [@viik01] (https://github.com/viik01)
 
 - GitHub: [@] (https://github.com/)
