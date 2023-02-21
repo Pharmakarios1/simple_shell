@@ -322,7 +322,7 @@ $
 
 👤 **Blessed Akhigbe**
 
-- GitHub: [@Pharmakarios] (https://github.com/pharmakarios)
+- GitHub: [@Pharmakarios] (https://github.com/pharmakarios1)
 
 👤 **Jayeola Victor Adeoluwa**
 
